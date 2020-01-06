@@ -136,6 +136,55 @@ px      68    160    252    */
 	.under_menu_search button{
 	float:right;
 	}
+	.left_sidebar {
+    width: 100%;
+	}
+	.middle_content {
+    width: 100%;
+	}
+	.right_sidebar {
+    width: 100%;
+	}
+	.footer_left_content {
+    width: 94%;
+	padding-left: 3%;
+    }
+	.footer_middle_content {
+    width: 94%;
+    margin-left: 3%;
+	}
+	.footer_right_content {
+    width: 94%;
+    padding-left: 3%;
+	}
+	.fotter_part {	
+	height: 430px;
+	}
+	.right_sidebar input[type="text"] {
+    border: 2px solid #998a8a;
+	margin-left: 2%;
+	margin-top: 2%;
+	width: 93%;
+	padding: 1%;
+	margin-bottom: 2%;
+	}
+	.right_sidebar input[type="email"]{
+	border: 2px solid #998a8a;
+	margin-left: 2%;
+	margin-top: 2%;
+	width: 93%;
+	padding: 1%;
+	margin-bottom: 2%;
+	}
+	.floatright {
+	width: 99%;
+	}
+	.under_menu_search input[type="text"] {
+	width: 83%;
+	}
+	.under_menu_search button {
+	margin-right: 1%;
+	}
 
 }
 	
@@ -175,6 +224,59 @@ px      68    160    252    344    436    */
 	}
 	nav .menu ul ul a { background: transparent }
 	nav .menu ul ul a:hover { background: #FFBB22 }
+		.undermenuitem{
+		display:none
+	}
+	.under_menu {
+	width: 100%;
+	}
+	.floatright {
+    float: left;
+	margin-left: 1%;
+	}
+	.under_menu_search button{
+	float:right;
+	}
+	.left_sidebar {
+    width: 100%;
+	}
+	.middle_content {
+    width: 100%;
+	}
+	.right_sidebar {
+    width: 100%;
+	}
+	.footer_left_content {
+    width: 94%;
+	padding-left: 3%;
+    }
+	.footer_middle_content {
+    width: 94%;
+    margin-left: 3%;
+	}
+	.footer_right_content {
+    width: 94%;
+    padding-left: 3%;
+	}
+	.fotter_part {	
+	height: 430px;
+	}
+	.right_sidebar input[type="text"] {
+    border: 2px solid #998a8a;
+	margin-left: 2%;
+	margin-top: 2%;
+	width: 93%;
+	padding: 1%;
+	margin-bottom: 2%;
+	}
+	.right_sidebar input[type="email"]{
+	border: 2px solid #998a8a;
+	margin-left: 2%;
+	margin-top: 2%;
+	width: 93%;
+	padding: 1%;
+	margin-bottom: 2%;
+	}
 
 
 }
@@ -211,5 +313,59 @@ px      68    160    252    344    436    */
 	}
 	nav .menu ul ul a { background: transparent }
 	nav .menu ul ul a:hover { background: #FFBB22 }
+		.undermenuitem{
+		display:none
+	}
+	.under_menu {
+	width: 100%;
+	}
+	.floatright {
+    float: left;
+	margin-left: 1%;
+	}
+	.under_menu_search button{
+	float:right;
+	}
+	.left_sidebar {
+    width: 100%;
+	}
+	.middle_content {
+    width: 100%;
+	}
+	.right_sidebar {
+    width: 100%;
+	}
+	.footer_left_content {
+    width: 94%;
+	padding-left: 3%;
+    }
+	.footer_middle_content {
+    width: 94%;
+    margin-left: 3%;
+	}
+	.footer_right_content {
+    width: 94%;
+    padding-left: 3%;
+	}
+	.fotter_part {	
+	height: 430px;
+	}
+	.right_sidebar input[type="text"] {
+    border: 2px solid #998a8a;
+	margin-left: 2%;
+	margin-top: 2%;
+	width: 93%;
+	padding: 1%;
+	margin-bottom: 2%;
+	
+	}
+	.right_sidebar input[type="email"]{
+	border: 2px solid #998a8a;
+	margin-left: 2%;
+	margin-top: 2%;
+	width: 93%;
+	padding: 1%;
+	margin-bottom: 2%;
+	}
 
 }
